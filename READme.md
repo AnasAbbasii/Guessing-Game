@@ -18,7 +18,7 @@ Software Engineering Student
 Air University, Islamabad
 
 ## Project Information
-- **Course:** Programming Fundamentals
+- **Course:** Computer Programming
 - **Semester:** 1st Semester
 - **Completion Date:** 6 January 2026
 
